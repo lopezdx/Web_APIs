@@ -1,0 +1,11 @@
+#startButton{
+    background:lightskyblue;
+    border: 2px solid navy;
+    border-radius:25px;
+    padding:5px;
+    width:10%;
+}
+
+.hide{
+    display:none;
+}
